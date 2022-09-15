@@ -4,13 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    // "dev": "vite",
-    // "server": "nodemon ./server/server.js",
-    // "build": "vite build",
-    // "test": "jest --verbose --watchAll",
-    // "cypress:open":"npx cypress open" ,
-    // "cypress:run":"npx cypress run" ,
-    // "cypress:component":"npx cypress run --component"
+
   },
   "keywords": [],
   "author": "",
