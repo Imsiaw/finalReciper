@@ -18,8 +18,8 @@ const uploadImg = require('./utils/uploadImg');
 
 const app = express();
 
-app.use(bp.json({ limit: '500mg' }));
-app.use(bp.urlencoded({ extended: true, limit: '500mg', parameterLimit: '5000000' }));
+app.use(bp.json({ limit: '5000mg' }));
+app.use(bp.urlencoded({ extended: true, limit: '5000mg', parameterLimit: '50000000' }));
 
 app.use(cors({
   origin: '*',
